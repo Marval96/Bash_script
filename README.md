@@ -1,7 +1,7 @@
 # Bash_script
 Espacio para compartir distintos programas de Bash que ayuden a optimizar tareas.
 
-El directorio **QualityControl** contiene el material necesario para realizar un análisis de calidad de lecturas, obtenidas por *Next-generation sequencing (NGS)*, para una secuenciación de tipo *paired-end*. 
+Aquí encontrarás el material necesario para realizar un análisis de calidad de lecturas, obtenidas por *Next-generation sequencing (NGS)*, para una secuenciación de tipo *paired-end*. 
 
 El archivo **qc.sh** es el script necesario para automatizar esta tarea usando el *shell* **Bash**. Por ende, esto solo podrá ejecutarse en sistemas operativos tipo *Unix*.
 
@@ -13,7 +13,7 @@ El análisis requiere de las herraminetas [FastQC](https://www.bioinformatics.ba
 
     conda activate QualityControl
 
-Para realizar el análsis debes ejecutar el script *qc.sh* en el mismo directorio donde tienes tus archivos de secuenciación. En la carpeta **data** encontrarás algunas archivos fastq con los que puedes practicar la ejecución de este script. 
+Para realizar el análsis debes ejecutar el script *qc.sh* en el mismo directorio donde tienes tus archivos de secuenciación.
 
 Para correr un script normalmente se ejecuta:
 
