@@ -1,6 +1,11 @@
 # Bash_script
 Espacio para compartir distintos programas de Bash que ayuden a optimizar tareas.
 
+*May the Force be with you*
+
+![May the Force be with you](linux_sw.jpg)
+
+
 Aquí encontrarás el material necesario para realizar un análisis de calidad de lecturas, obtenidas por *Next-generation sequencing (NGS)*, para una secuenciación de tipo *paired-end*. 
 
 El archivo **qc.sh** es el script necesario para automatizar esta tarea usando el *shell* **Bash**. Por ende, esto solo podrá ejecutarse en sistemas operativos tipo *Unix*.
@@ -23,6 +28,3 @@ Nosotros recomendamos ejecutarlo en segundo plano, así puedes seguir trabajando
 
     nohup ./qc.sh &
 
-*May the Force be with you*
-
-![May the Force be with you](linux_sw.jpg)
