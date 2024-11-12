@@ -24,7 +24,7 @@ Para correr un script normalmente se ejecuta:
 
     ./script.sh
 
-Nosotros recomendamos ejecutarlo en segundo plano, así puedes seguir trabajando en la misma terminal y tu proceso se ejecuta sin importar que cierress dicha terminal. Así puedes irte casa mientras la computadora hace el análsis. 
+Nosotros recomendamos ejecutarlo en segundo plano, así puedes seguir trabajando en la misma terminal y tu proceso se ejecuta sin importar que cierres dicha terminal. Así puedes irte casa mientras la computadora hace el análisis. 
 
     nohup ./qc.sh &
 
