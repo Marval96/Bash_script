@@ -1,3 +1,5 @@
+# Análisis de Calidad 
+
 Aquí encontrarás el material necesario para realizar un análisis de calidad de lecturas de secuenciación, obtenidas por *Next-generation sequencing (NGS)*, para una secuenciación de tipo *paired-end*. 
 
 Los archivos **interaccion.sh** y **analisis.sh** son los script´s necesarios para automatizar esta tarea usando el *shell* **Bash**. Por ende, esto solo podrá ejecutarse en sistemas operativos tipo *Unix*.
